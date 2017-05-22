@@ -1,8 +1,15 @@
-//*********************************************************************
-//* Author: Dywayne Johnson
-//* Date:   May 10, 2017
-//*********************************************************************
+Simple Uploader
+=====================================
+A simple SPA app using AngularJS, Node.js, Express.js, and Grunt to demonstrate optimization and a nice file uploader.
 
+## Give it a try!
+
+Use the link below to try it out. 
+
+http://djohnsonkc-simple-uploader.herokuapp.com/
+
+
+## Technologies Used
 
 Below is a rundown of the technologies used in this project.
 
