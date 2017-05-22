@@ -1,0 +1,27 @@
+{
+  "name": "spa-uploader",
+  "version": "1.0.0",
+  "description": "A simple SPA app using AngularJS, Node.js, Express.js, and Grunt to demonstrate optimization and a nice file uploader",
+  "main": "app.js",
+  "dependencies": {
+    "compression": "^1.4.4",
+    "express": "^4.12.3",
+    "connect-busboy": "0.0.2"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-cssmin": "^0.12.2",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-htmlmin": "^0.4.0",
+    "imagemin-mozjpeg": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Dywayne Johnson"
+}
